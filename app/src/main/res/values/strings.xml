@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">مُسيّرات 3D</string>
+    <string name="app_subtitle">منصة تعليمية عربية لعلوم الطيران المسيّر المدني</string>
+    <string name="phase_zero_badge">المرحلة 0: التأسيس + نموذج التعلم التفاعلي (مسودة)</string>
+    <string name="draft_status_label">الحالة: مسودة للمراجعة البشرية</string>
+    <string name="civilian_notice_title">تنبيه تعليمي وسلامة مدنية</string>
+    <string name="civilian_notice_body">هذا التطبيق تعليمي مفتوح المصدر يعمل دون إنترنت، ولا يتصل بأي طائرة حقيقية أو جهاز تحكم أو مستشعرات فعلية، ولا يمنح رخصة أو شهادة مهنية.</string>
+
+    <string name="nav_foundation">التأسيس</string>
+    <string name="nav_learning">التعلّم التفاعلي</string>
+    <string name="nav_boundaries">الحدود والتراخيص</string>
+
+    <string name="cta_open_learning_module">بدء وحدة التعلّم التفاعلية</string>
+    <string name="cta_accessibility_settings">إعدادات العرض والوصولية</string>
+
+    <string name="step_drag_drop">تحديد المكونات</string>
+    <string name="step_safety_cards">بطاقات السلامة</string>
+    <string name="step_concept_mcqs">أسئلة الفهم</string>
+    <string name="step_review_quiz">اختبار نهاية القسم</string>
+
+    <string name="settings_title">إعدادات العرض وإمكانية الوصول</string>
+    <string name="settings_font_scale">حجم الخط</string>
+    <string name="settings_high_contrast">تباين مرتفع</string>
+    <string name="settings_high_contrast_desc">زيادة وضوح الحدود والنصوص على البطاقات</string>
+    <string name="settings_reduced_motion">تقليل الحركة</string>
+    <string name="settings_reduced_motion_desc">تعطيل الانتقالات المتحركة داخل الدروس</string>
+    <string name="settings_close">إغلاق</string>
+
+    <string name="cd_app_emblem">شعار تطبيق مُسيّرات 3D التعليمي</string>
+    <string name="cd_accessibility_button">فتح إعدادات العرض وإمكانية الوصول</string>
+    <string name="cd_safety_warning_icon">رمز تنبيه السلامة المدنية</string>
+    <string name="cd_quadrotor_diagram">مخطط هندسي علوي لطائرة رباعية المراوح لتحديد المكونات</string>
+    <string name="cd_correct_badge">إجابة صحيحة</string>
+    <string name="cd_incorrect_badge">إجابة تحتاج مراجعة</string>
+</resources>

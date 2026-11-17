@@ -1,0 +1,16 @@
+مُسيّرات 3D (Drones 3D) - Licensing Notice
+
+1. Source Code License: GNU General Public License v3.0 (GPL-3.0).
+   This program is free software: you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation, either version 3 of the License, or
+   (at your option) any later version.
+   Full text reference: https://www.gnu.org/licenses/gpl-3.0.txt
+   (Note: Include full verbatim GPL-3.0 text before public repository release.)
+
+2. Educational Curriculum & Text Content License:
+   Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+   Reference: https://creativecommons.org/licenses/by-sa/4.0/
+
+3. Bundled Third-Party Fonts & Libraries:
+   See ASSETS.md and DEPENDENCIES.md for bundled font families and AndroidX/Kotlin libraries.

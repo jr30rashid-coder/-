@@ -1,0 +1,6 @@
+{
+  "name": "مُسيّرات 3D",
+  "description": "تطبيق Android تعليمي عربي مجاني ومفتوح المصدر يشرح علوم منظومات الطيران المسيّر المدنية دون اتصال بالإنترنت وبأدوات تفاعلية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
